@@ -1,0 +1,3 @@
+﻿NroTarjeta: 1234; Comercio: A; Saldo: 3500;
+NroTarjeta: 4321; Comercio: B; Saldo: 6788;
+NroTarjeta: 9999; Comercio: C; Saldo: 5000;
